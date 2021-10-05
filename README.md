@@ -8,11 +8,11 @@ This training series, run over two half days, introduces participants to core co
 
 ## Programme
 
-The course programme can be viewed [here](https://github.com/DiarmuidM/wiserd-social-network-analysis/wiserd-social-network-analysis.pdf).
+The course programme can be viewed [here](https://github.com/DiarmuidM/wiserd-social-network-analysis-course/wiserd-social-network-analysis-programme.pdf).
 
 ## Materials
 
-This repository houses the materials underpinning a [one-day WISERD course on social network analysis](https://wiserd.ac.uk/events/wiserd-tcb-social-network-analysis) run by [Dr Diarmuid McDonnell](https://www.uws.ac.uk/staff-directory/diarmuid-mcdonnell/), University of the West of Scotland. The course was first run on 2021-09-29.
+This repository houses the materials underpinning a [one-day WISERD course on social network analysis](https://wiserd.ac.uk/events/wiserd-tcb-social-network-analysis) run by [Dr Diarmuid McDonnell](https://www.uws.ac.uk/staff-directory/diarmuid-mcdonnell/), University of the West of Scotland. The course was first run on 2021-10-06.
 
 The training materials can be found in the following folders:
 * [code](./code) - Jupyter Notebooks containing executable Python code for the social network analysis lessons.
