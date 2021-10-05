@@ -6,6 +6,5 @@ If you would like to run and/or edit the code without installing any software on
 
 Once Binder has been launched, click on the notebook you want to run. (*Don't worry if takes up to a minute to launch*)
 
-### Launch Social Network Analysis as a Binder service: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/social-network-analysis/master?filepath=code)<br>
-
-Alternatively, you can download the notebook files and run them on your own machine. See our guidance on installing Python and Jupyter [here](https://github.com/UKDataServiceOpen/new-forms-of-data/blob/master/installation.md).
+### Launch Social Network Analysis as a Binder service: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/
+wiserd-social-network-analysis-course/master?filepath=code)<br>
