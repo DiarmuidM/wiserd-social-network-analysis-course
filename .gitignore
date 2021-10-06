@@ -1,0 +1,15 @@
+outline/
+templates/
+ideas/
+guidance/
+env/
+literature/
+recordings/
+code/.ipynb_checkpoints
+code/web-scraping-websites-code-2020-04-23.ipynb
+presentations/presentation-tables.xlsx
+social-network-analysis-master.zip
+templates.txt
+code/twitter*
+*.pptx
+*.docx
