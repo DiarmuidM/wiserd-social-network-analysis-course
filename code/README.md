@@ -7,3 +7,12 @@ If you would like to run and/or edit the code without installing any software on
 Once Binder has been launched, click on the notebook you want to run. (*Don't worry if takes up to a minute to launch*)
 
 ### Launch Social Network Analysis as a Binder service: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/wiserd-social-network-analysis-course/main?filepath=code)
+
+### Google Colab
+
+Alternatively you can run the notebooks through Google Colab (requires a Google account):
+1. 
+2.
+3.
+4.
+5.
