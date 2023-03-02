@@ -11,8 +11,8 @@ Once Binder has been launched, click on the notebook you want to run. (*Don't wo
 ### Google Colab
 
 Alternatively you can run the notebooks through Google Colab (requires a Google account):
-1. Fundamentals [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/wiserd-social-network-analysis-course/blob/main/code/dass-week-10-bivariate-analysis-2022-11-14.ipynb)
-2.
-3.
+1. Fundamentals of SNA [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/wiserd-social-network-analysis-course/blob/main/code/wiserd-sna-fundamentals-2021-10-06.ipynb)
+2. Marshalling Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/wiserd-social-network-analysis-course/blob/main/code/wiserd-sna-fundamentals-2021-10-06.ipynb)
+3. Analysis of Network Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/wiserd-social-network-analysis-course/blob/main/code/wiserd-sna-analysis-2021-10-06.ipynb)
 4.
 5.
